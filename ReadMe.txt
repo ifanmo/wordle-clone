@@ -1,0 +1,1 @@
+Hello Pierre. I managed to just do the help and quit functions for extension task 1. For extension task 2, I took the score that each letters value from Scrabble tile x 10 and divided by the number of guesses. Thanks Ifan
